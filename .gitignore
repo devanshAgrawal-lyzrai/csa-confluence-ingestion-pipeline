@@ -1,0 +1,17 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Large/generated files
+page.txt
+
+# OS
+.DS_Store
